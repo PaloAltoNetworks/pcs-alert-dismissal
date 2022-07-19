@@ -1,0 +1,1 @@
+This directory is where state of the tenant is recorded. Any changes to the files in this directory could result in the script behaving improperly resulting in damage to the tenant.

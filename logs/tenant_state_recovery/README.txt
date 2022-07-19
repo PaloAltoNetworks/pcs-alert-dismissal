@@ -1,0 +1,1 @@
+This directory will contain details of all cloud accounts that were onboarded, had alerts dismissed, and then deleted. This means any cloud account could be manually re-onboarded. 
